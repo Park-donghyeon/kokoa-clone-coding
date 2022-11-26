@@ -1,3 +1,3 @@
 # KOKOA CLONE CODING
 
-nomadcoders KOKOA CLONE CODING
+Let's start Clone coding
